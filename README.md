@@ -1,15 +1,15 @@
-# DIMAS HOTWILL PORTOFOLIO
+# DIMZ PORTOFOLIO
 
-> Personal portfolio website by **DIMAS HOTWILL**, showcasing projects, creative works, web development experiments, and digital creations.
+> Personal portfolio website by **DIMZ TAMVANS**, showcasing projects, creative works, web development experiments, and digital creations.
 
 🌐 **Live Demo:**
-https://dimzzsum-enak1.vercel.app/
+https://info.dimz-wtf.web.id/
 
 ---
 
 ## About
 
-**DIMAS HOTWILL PORTOFOLIO** is a personal portfolio website created to showcase my work, projects, experiments, and journey in web development and digital creativity.
+**DIMZ PORTOFOLIO** is a personal portfolio website created to showcase my work, projects, experiments, and journey in web development and digital creativity.
 
 The portfolio contains various projects ranging from websites and web tools to other personal experiments and creative digital projects.
 
@@ -39,14 +39,14 @@ The portfolio contains various projects ranging from websites and web tools to o
 
 Visit the portfolio:
 
-**[DIMAS HOTWILL PORTOFOLIO](https://dimzzsum-enak1.vercel.app/)**
+**[DIMZ PORTOFOLIO](https://info.dimz-wtf.web.id/)**
 
 ---
 
 ## Project Structure
 
 ```text
-DIMAS-HOTWILL-PORTOFOLIO/
+DIMZ-PORTOFOLIO/
 ├── index.html
 ├── assets/
 │   ├── css/
@@ -71,7 +71,7 @@ This project serves as my personal space to:
 
 ## Author
 
-**DIMAS HOTWILL**
+**DIMZ TAMVANS**
 
 Web Developer • Digital Creator • Project Enthusiast
 
@@ -81,4 +81,4 @@ Web Developer • Digital Creator • Project Enthusiast
 
 This project is created for personal portfolio purposes.
 
-© 2026 **DIMAS HOTWILL**. All rights reserved.
+© 2026 **DIMZ TAMVANS**. All rights reserved.
